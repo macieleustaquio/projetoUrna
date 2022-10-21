@@ -148,3 +148,8 @@ body {
 .d-1-4 p {
     margin: 0px;
 }
+
+.aviso--grande {
+    font-size: 40px;
+    font-weight: bold;
+}

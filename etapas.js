@@ -4,7 +4,7 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: 38111,
+                numero: '38111',
                 name: 'Fábio Rogério',
                 partido: 'PT',
                 fotos: [
@@ -16,7 +16,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 77222,
+                numero: '77222',
                 name: 'Mario Chalis',
                 partido: 'SEM PARTIDO',
                 fotos: [
@@ -34,7 +34,7 @@ let etapas = [
         numero: 2,
         candidatos: [
             {
-                numero: 99,
+                numero: '99',
                 name: 'Rômulo Silva',
                 partido: 'PL',
                 vice: 'Vagner Barbosa',
@@ -52,7 +52,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 87,
+                numero: '84',
                 name: 'Guilherme Chaves',
                 partido: 'PC',
                 vice: 'Henry Castro',
